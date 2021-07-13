@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="THIS IS HELLO RAY, Hello arkin ezra, gerard, eva"/>
+  <HelloWorld msg="THIS IS HELLO RAY, Hello arkin ezra, gerard, eva, nomor 2"/>
 </template>
 
 <script>
